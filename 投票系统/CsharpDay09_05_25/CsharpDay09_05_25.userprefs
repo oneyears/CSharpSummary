@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="CsharpDay09_05_25/CsharpDay09_05_25.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CsharpDay09_05_25/Program.cs">
+    <Files>
+      <File FileName="CsharpDay09_05_25/Program.cs" Line="20" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

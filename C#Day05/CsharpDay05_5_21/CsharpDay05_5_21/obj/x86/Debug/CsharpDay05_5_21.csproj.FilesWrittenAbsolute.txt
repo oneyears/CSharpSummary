@@ -1,0 +1,5 @@
+/Users/neworigin/Desktop/MyC#Test/C#Day05/CsharpDay05_5_21/CsharpDay05_5_21/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/neworigin/Desktop/MyC#Test/C#Day05/CsharpDay05_5_21/CsharpDay05_5_21/bin/Debug/CsharpDay05_5_21.exe.mdb
+/Users/neworigin/Desktop/MyC#Test/C#Day05/CsharpDay05_5_21/CsharpDay05_5_21/bin/Debug/CsharpDay05_5_21.exe
+/Users/neworigin/Desktop/MyC#Test/C#Day05/CsharpDay05_5_21/CsharpDay05_5_21/obj/x86/Debug/CsharpDay05_5_21.exe
+/Users/neworigin/Desktop/MyC#Test/C#Day05/CsharpDay05_5_21/CsharpDay05_5_21/obj/x86/Debug/CsharpDay05_5_21.exe.mdb

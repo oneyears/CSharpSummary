@@ -1,0 +1,5 @@
+/Users/neworigin/Desktop/MyC#Test/C#Day03/C#Day03_05_17_controlFlow/C#Day03_05_17_controlFlow/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/neworigin/Desktop/MyC#Test/C#Day03/C#Day03_05_17_controlFlow/C#Day03_05_17_controlFlow/bin/Debug/C#Day03_05_17_controlFlow.exe.mdb
+/Users/neworigin/Desktop/MyC#Test/C#Day03/C#Day03_05_17_controlFlow/C#Day03_05_17_controlFlow/bin/Debug/C#Day03_05_17_controlFlow.exe
+/Users/neworigin/Desktop/MyC#Test/C#Day03/C#Day03_05_17_controlFlow/C#Day03_05_17_controlFlow/obj/x86/Debug/C#Day03_05_17_controlFlow.exe
+/Users/neworigin/Desktop/MyC#Test/C#Day03/C#Day03_05_17_controlFlow/C#Day03_05_17_controlFlow/obj/x86/Debug/C#Day03_05_17_controlFlow.exe.mdb

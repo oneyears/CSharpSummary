@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="C#Day03_05_17_controlFlow/C#Day03_05_17_controlFlow.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="C#Day03_05_17_controlFlow/Program.cs">
+    <Files>
+      <File FileName="C#Day03_05_17_controlFlow/Program.cs" Line="3" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
