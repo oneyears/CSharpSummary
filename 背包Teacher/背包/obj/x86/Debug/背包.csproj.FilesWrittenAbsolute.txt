@@ -1,0 +1,10 @@
+/Users/wzc/Projects/背包/背包/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/wzc/Projects/背包/背包/bin/Debug/背包.pdb
+/Users/wzc/Projects/背包/背包/bin/Debug/背包.exe
+/Users/wzc/Projects/背包/背包/obj/x86/Debug/背包.exe
+/Users/wzc/Projects/背包/背包/obj/x86/Debug/背包.pdb
+/Users/neworigin/Desktop/背包/背包/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/neworigin/Desktop/背包/背包/bin/Debug/背包.exe
+/Users/neworigin/Desktop/背包/背包/obj/x86/Debug/背包.exe
+/Users/neworigin/Desktop/背包/背包/bin/Debug/背包.exe.mdb
+/Users/neworigin/Desktop/背包/背包/obj/x86/Debug/背包.exe.mdb

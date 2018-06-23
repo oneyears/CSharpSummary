@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<Person>
+		<Name>Ls</Name>
+		<Age>16</Age>
+		<Id>1</Id>
+		<Sex>男</Sex>
+		<TelePhone>18979552892</TelePhone>
+		<Address>龙南</Address>
+	</Person>
+
+	<Person>
+		<Name>Ls2</Name>
+		<Age>20</Age>
+		<Id>2</Id>
+		<Sex>男</Sex>
+		<TelePhone>17610142892</TelePhone>
+		<Address>北京</Address>
+	</Person>
+
+	<Person>
+		<Name>Ls3</Name>
+		<Age>18</Age>
+		<Id>3</Id>
+		<Sex>男</Sex>
+		<TelePhone>17879552892</TelePhone>
+		<Address>宜春</Address>
+	</Person>
+</root>

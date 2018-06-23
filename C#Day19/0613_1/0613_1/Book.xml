@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <book>
+    <bookname>aa</bookname>
+    <author>aaa</author>
+    <price>100</price>
+  </book>
+  <book>
+    <bookname>bb</bookname>
+    <author>bbb</author>
+    <price>100</price>
+  </book>
+  <book>
+    <bookname>cc</bookname>
+    <author>ccc</author>
+    <price>100</price>
+  </book>
+  <book>
+    <bookname>dd</bookname>
+    <author>ddd</author>
+    <price>100</price>
+  </book>
+</root>

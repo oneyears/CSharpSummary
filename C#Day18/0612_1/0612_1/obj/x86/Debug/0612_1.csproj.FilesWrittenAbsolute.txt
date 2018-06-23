@@ -1,0 +1,6 @@
+/Users/wzc/Desktop/code/0515第一教室/0612_1/0612_1/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/wzc/Desktop/code/0515第一教室/0612_1/0612_1/bin/Debug/0612_1.pdb
+/Users/wzc/Desktop/code/0515第一教室/0612_1/0612_1/bin/Debug/0612_1.exe
+/Users/wzc/Desktop/code/0515第一教室/0612_1/0612_1/obj/x86/Debug/0612_1.exe
+/Users/wzc/Desktop/code/0515第一教室/0612_1/0612_1/obj/x86/Debug/0612_1.pdb
+/Users/wzc/Desktop/code/0515第一教室/0612_1/0612_1/bin/Debug/背包.exe

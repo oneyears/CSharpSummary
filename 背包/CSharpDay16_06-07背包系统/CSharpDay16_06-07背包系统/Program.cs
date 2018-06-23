@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 /*
+*/
 namespace CSharpDay16_0607背包系统
 {
 	//英雄有自身属性， 有英雄背包（装备武器） 和大背包（可以直接吃药？药是否可以叠加？）
@@ -197,8 +198,9 @@ namespace CSharpDay16_0607背包系统
 			case GoodsType.Durg:
 				if (backPack.isHaveDurg ((Durg)g)) {
 					useDurg ((Durg)g);
-					backPack.
-				} else {
+				
+				} 
+				else {
 					Console.WriteLine ("使用失败");
 				}
 				break;
@@ -417,6 +419,7 @@ namespace CSharpDay16_0607背包系统
 	}
 }
 
+
 /*
 namespace demo1泛型单例{
 
@@ -443,7 +446,6 @@ namespace demo1泛型单例{
 	}
 }
 
-*/
 /*
 namespace demo2Test11传递泛型数组{
 	class MainClass{
@@ -502,6 +504,11 @@ namespace demo3interface{
 		public void fun(string b){
 		}
 	}
+
+}
+*/
+/*
+namespace demo4{
 
 }
 */
